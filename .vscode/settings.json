@@ -1,0 +1,15 @@
+{
+    "git.autofetch": true,
+    "python.linting.flake8Enabled": true,
+    "editor.fontFamily": "VictorMono Nerd Font",
+    "editor.fontWeight": "550",
+    "editor.fontLigatures": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
